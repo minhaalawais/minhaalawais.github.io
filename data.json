@@ -1,0 +1,333 @@
+{
+  "main": {
+  "name": "Minhal Awais",
+  "shortDesc": "I am a seasoned AI-enabled SaaS developer, driven by a passion for creating transformative software solutions that empower businesses to thrive in the digital era.",
+  "titles": [
+  "AI-Enabled SaaS Architect",
+  "Lead Software Engineer",
+  "Product Innovation Specialist"
+  ],
+  "heroImage": "https://i.ibb.co/Zg7YmFJ/Profile-picture-2-enhanced.png",
+  "techStackImages": [
+  "https://img.icons8.com/color/144/000000/python.png",
+  "https://img.icons8.com/office/144/000000/react.png",
+  "https://img.icons8.com/color/144/000000/nodejs.png",
+  "https://img.icons8.com/color/144/000000/mongodb.png"
+  ]
+  },
+  "about": {
+  "aboutImage": "https://i.ibb.co/Zg7YmFJ/Profile-picture-2-enhanced.png",
+  "aboutImageCaption": "< Crafting Innovative AI-Powered Solutions />",
+  "title": "Visionary AI-Enabled SaaS Architect",
+  "about": "As an accomplished AI-enabled SaaS developer, I have a proven track record of designing and delivering transformative software solutions that empower businesses to overcome their most pressing challenges. With a deep understanding of the evolving technological landscape and a keen eye for user-centric design, I possess the expertise to translate complex business requirements into intuitive, scalable, and data-driven SaaS products. My passion lies in integrating cutting-edge AI and machine learning capabilities into software ecosystems, amplifying their impact and unlocking new dimensions of efficiency and insight for my clients. As a Lead Software Engineer, I have spearheaded the development of groundbreaking SaaS platforms, including Pakistan's first AI-enabled Grievance Management System and an innovative Environmental Sustainability Reporting System for WWF Pakistan. I am driven by a relentless pursuit of innovation and a commitment to creating software that not only solves problems but also inspires and empowers the organizations and individuals who use it.",
+  "callUrl": "",
+  "resumeUrl": ""
+  },
+"socials": [
+  {
+    "icon": "FaLinkedin",
+    "link": "https://www.linkedin.com/in/minhal-awais-601216227"
+  },
+  {
+    "icon": "FaGithub",
+    "link": "https://github.com/minhalawais"
+  },
+  {
+    "icon": "FaTwitter",
+    "link": "https://twitter.com/minhal_awais"
+  },
+  {
+    "icon": "FaWhatsapp",
+    "link": "https://wa.me/+923120614727"
+  }
+],
+"skills": [
+  {
+    "name": "Python",
+    "image": "https://img.icons8.com/color/144/null/python--v1.png",
+    "category": "AI/ML"
+  },
+  {
+    "name": "TensorFlow",
+    "image": "https://img.icons8.com/color/144/null/tensorflow.png",
+    "category": "AI/ML"
+  },
+  {
+    "name": "Keras",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg",
+    "category": "AI/ML"
+  },
+  {
+    "name": "AWS",
+    "image": "https://img.icons8.com/color/144/null/amazon-web-services.png",
+    "category": "AI/ML"
+  },
+  {
+    "name": "JavaScript",
+    "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+    "category": "Frontend"
+  },
+  {
+    "name": "React",
+    "image": "https://img.icons8.com/office/144/null/react.png",
+    "category": "Frontend"
+  },
+  {
+    "name": "Bootstrap",
+    "image": "https://img.icons8.com/color/144/null/bootstrap.png",
+    "category": "Frontend"
+  },
+  {
+    "name": "HTML/CSS",
+    "image": "https://img.icons8.com/color/144/null/html-5--v1.png",
+    "category": "Frontend"
+  },
+  {
+    "name": "jQuery",
+    "image": "https://img.icons8.com/ios-filled/144/null/jquery.png",
+    "category": "Frontend"
+  },
+  {
+    "name": "Node.js",
+    "image": "https://img.icons8.com/color/144/null/nodejs.png",
+    "category": "Backend"
+  },
+  {
+    "name": "PHP",
+    "image": "https://img.icons8.com/offices/144/null/php-logo.png",
+    "category": "Backend"
+  },
+  {
+    "name": "Express.js",
+    "image": "https://img.icons8.com/color/144/null/express.png",
+    "category": "Backend"
+  },
+  {
+    "name": "MongoDB",
+    "image": "https://img.icons8.com/color/144/null/mongodb.png",
+    "category": "Databases"
+  },
+  {
+    "name": "SQL",
+    "image": "https://www.fast2.tech/images/connectors/sql-logo.webp",
+    "category": "Databases"
+  },
+  {
+    "name": "PostgreSQL",
+    "image": "https://img.icons8.com/color/144/null/postgreesql.png",
+    "category": "Databases"
+  },
+  {
+    "name": "Docker",
+    "image": "https://img.icons8.com/color/144/null/docker.png",
+    "category": "Tools"
+  },
+  {
+    "name": "Git",
+    "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+    "category": "Tools"
+  },
+  {
+    "name": "Firebase",
+    "image": "https://img.icons8.com/color/144/null/firebase.png",
+    "category": "Databases"
+  },
+  {
+    "name": "Pandas",
+    "image": "https://img.icons8.com/color/144/null/pandas.png",
+    "category": "AI/ML"
+  },
+  {
+    "name": "PyTorch",
+    "image": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-linuxhq/events/PyTorch_Symbol_01_OrangeOnTransparent_PFPOu8y.png",
+    "category": "AI/ML"
+  },
+  {
+    "name": "Scikit-Learn",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg",
+    "category": "AI/ML"
+  },
+  {
+    "name": "OpenCV",
+    "image": "https://img.icons8.com/color/144/null/opencv.png",
+    "category": "AI/ML"
+  },
+  {
+    "name": "NLTK",
+    "image": "https://miro.medium.com/v2/resize:fit:640/format:webp/1*YM2HXc7f4v02pZBEO8h-qw.png",
+    "category": "AI/ML"
+  },
+  {
+    "name": "LangChain",
+    "image": "https://www.iotworlds.com/wp-content/uploads/2024/05/iotworlds-langchain.webp", 
+    "category": "AI/ML"
+  },
+  {
+    "name": "Neo4j",
+    "image": "https://www.bloorresearch.com/wp-content/uploads/2012/12/neo4j-x.png",
+    "category": "Databases"
+  },
+  {
+    "name": "Flask",
+    "image": "https://img.icons8.com/color/144/null/flask.png",
+    "category": "Backend"
+  },
+  {
+    "name": "Django",
+    "image": "https://img.icons8.com/color/144/null/django.png",
+    "category": "Backend"
+  }
+],
+"projects": [
+  {
+    "name": "Live Transcription and Translation Software",
+    "techstack": "Python, Speech Recognition, Language Translation",
+    "category": "Custom Software",
+    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "links": {
+      "code": "",
+      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
+      "visit": ""
+    },
+    "description": [
+      "Developed real-time transcription and translation software to facilitate multilingual meetings.",
+      "Utilized advanced speech recognition to detect and transcribe conversations in multiple languages.",
+      "Provided live translations to enhance communication and collaboration across language barriers.",
+      "Proved invaluable for cross-cultural meetings, boosting productivity for the client."
+    ]
+  },
+  {
+    "name": "Dynamic Survey Module for Workforce Insights",
+    "techstack": "React, Node.js, MongoDB, Sentiment Analysis",
+    "category": "Mobile",
+    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "links": {
+      "code": "",
+      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
+      "visit": ""
+    },
+    "description": [
+      "Created a dynamic survey module enabling organizations to customize surveys.",
+      "Captured real-time employee feedback and sentiment using advanced NLP algorithms.",
+      "Delivered detailed workforce insights to drive targeted engagement and improvement efforts.",
+      "Supported decision-making with sentiment analysis and behavioral insights."
+    ]
+  },
+  {
+    "name": "Automated Report Generation Software",
+    "techstack": "Python, Word/PDF Generation",
+    "category": "Custom Software",
+    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "links": {
+      "code": "",
+      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
+      "visit": ""
+    },
+    "description": [
+      "Developed custom software to automate report generation for TTI Testing Labs.",
+      "Streamlined the process to create high-quality, error-free reports in Word and PDF formats.",
+      "Integrated with client database to personalize each report to specific testing samples.",
+      "Significantly reduced time and manual effort required for report generation."
+    ]
+  },
+  {
+    "name": "Fruit of Sustainability Mobile Application",
+    "techstack": "React Native, Node.js, MongoDB",
+    "category": "Mobile",
+    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "links": {
+      "code": "",
+      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
+      "visit": ""
+    },
+    "description": [
+      "Developed a mobile app for employees to file grievances and check case status.",
+      "Streamlined access to Grievance Management System features in a mobile-friendly format.",
+      "Enabled investigation officers to manage and track case progress on the go.",
+      "Improved employee engagement and accessibility through a user-friendly interface."
+    ]
+  },
+  {
+    "name": "AI Enabled Grievance Management System",
+    "techstack": "React, Node.js, MongoDB, AI",
+    "category": "SaaS Solutions",
+    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "links": {
+      "code": "",
+      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
+      "visit": ""
+    },
+    "description": [
+      "Developed Pakistan's first AI-enabled Grievance Management System.",
+      "Automated intake, investigation, and resolution processes with NLP and machine learning.",
+      "Provided real-time analytics to support data-driven decision-making.",
+      "Adopted by leading businesses, including Cheezious, Dawn, and Johny Jugnu."
+    ]
+  },
+  {
+    "name": "Environmental Sustainability Reporting System",
+    "techstack": "React, Node.js, PostgreSQL, AI",
+    "category": "SaaS Solutions",
+    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "links": {
+      "code": "",
+      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
+      "visit": ""
+    },
+    "description": [
+      "Developed an Environmental Sustainability Reporting System for WWF Pakistan.",
+      "Integrated data from over 5,000 factories to track key sustainability metrics.",
+      "Provided visualizations and AI-powered analytics for sustainable decision-making.",
+      "Enabled monitoring of environmental impact aligned with SDGs (6, 7, 12, and 13)."
+    ]
+  }
+],
+  "educations": [
+  {
+  "institute": "Pakturk Maarif College",
+  "degree": "FSC Pre-Engineering",
+  "duration": "2019 - 2021"
+  },
+  {
+    "institute": "University of Management & Technology",
+    "degree": "BS Artificial Intelligence",
+    "duration": "2021 - Present",
+    "desc": [
+      "Focused on developing AI and Machine Learning expertise to solve real-world business problems through SaaS solutions.",
+      "Gained hands-on experience with AI and software development tools, including Python, React, and AWS, and applied them in multiple academic and professional projects.",
+      "Worked extensively on projects involving web application development, backend technologies, and cloud deployment.",
+      "Acquired knowledge in natural language processing, data analytics, and cloud computing, applying these to build industry-oriented solutions.",
+      "Familiar with software development methodologies, with a primary focus on Agile practices for iterative and efficient project management."
+    ]
+  }
+  ],
+  "experiences": [
+  {
+  "company": "Fruit of Sustainability",
+  "position": "Lead Software Engineer",
+  "duration": "2023 - Present",
+  "desc": [
+  "Spearheaded the development of Pakistan's first AI-enabled Grievance Management System, a groundbreaking SaaS platform that has been adopted by leading brands and factories, transforming the way employee complaints are managed and resolved.",
+  "Architected and delivered an innovative Environmental Sustainability Reporting System for WWF Pakistan, integrating data from over 5,000 factories to provide advanced analytics and visualization, empowering organizations to make data-driven decisions that drive sustainable practices.",
+  "Demonstrated expertise in full-stack development, AI/ML integration, and product management, leveraging cutting-edge technologies such as React, Node.js, MongoDB, and PostgreSQL to create transformative SaaS solutions."
+  ]
+  },
+  {
+  "company": "TTI Testing Labs",
+  "position": "Software Development Intern",
+  "duration": "June 2023 - August 2023",
+  "desc": [
+  "Developed a custom Automatic Report Generation software for TTI Testing Labs, revolutionizing their report creation process by automating the generation of personalized Word and PDF reports, streamlining operations and enhancing efficiency."
+  ]
+  },
+  {
+    "company": "Upwork Freelancing",
+    "position": "Freelance Software Developer",
+    "duration": "June 2022 - June 2023",
+    "desc": [
+    "Created a pioneering Live Transcription and Translation software, empowering global teams to overcome language barriers and collaborate seamlessly during meetings and conversations through advanced speech recognition and language translation technologies.",
+    "Showcased versatility in problem-solving, with a strong focus on delivering custom software solutions that address unique client challenges and unlock new avenues for growth."
+    ]
+    }
+  ]
+  }
