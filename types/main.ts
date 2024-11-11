@@ -13,7 +13,8 @@ type project = {
         visit: string,
         code: string,
         video: string
-    }
+    },
+    description: string[]
 }
 
 type experience = {
