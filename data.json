@@ -26,18 +26,22 @@
 "socials": [
   {
     "icon": "FaLinkedin",
+    "name": "LinkedIn",
     "link": "https://www.linkedin.com/in/minhal-awais-601216227"
   },
   {
     "icon": "FaGithub",
+    "name": "GitHub",
     "link": "https://github.com/minhalawais"
   },
   {
     "icon": "FaTwitter",
+    "name": "Twitter",
     "link": "https://twitter.com/minhal_awais"
   },
   {
     "icon": "FaWhatsapp",
+    "name": "WhatsApp",
     "link": "https://wa.me/+923120614727"
   }
 ],
@@ -282,16 +286,20 @@
     ]
   }
 ],
-  "educations": [
+ "educations": [
   {
-  "institute": "Pakturk Maarif College",
-  "degree": "FSC Pre-Engineering",
-  "duration": "2019 - 2021"
+    "institute": "Pakturk Maarif College",
+    "degree": "FSC Pre-Engineering",
+    "duration": "2 years",
+    "startDate": "2019-01-01",
+    "endDate": "2021-12-31"
   },
   {
     "institute": "University of Management & Technology",
     "degree": "BS Artificial Intelligence",
-    "duration": "2021 - Present",
+    "duration": "Ongoing",
+    "startDate": "2021-08-01",
+    "endDate": "Present", 
     "desc": [
       "Focused on developing AI and Machine Learning expertise to solve real-world business problems through SaaS solutions.",
       "Gained hands-on experience with AI and software development tools, including Python, React, and AWS, and applied them in multiple academic and professional projects.",
@@ -300,34 +308,41 @@
       "Familiar with software development methodologies, with a primary focus on Agile practices for iterative and efficient project management."
     ]
   }
-  ],
-  "experiences": [
+],
+ "experiences": [
   {
-  "company": "Fruit of Sustainability",
-  "position": "Lead Software Engineer",
-  "duration": "2023 - Present",
-  "desc": [
-  "Spearheaded the development of Pakistan's first AI-enabled Grievance Management System, a groundbreaking SaaS platform that has been adopted by leading brands and factories, transforming the way employee complaints are managed and resolved.",
-  "Architected and delivered an innovative Environmental Sustainability Reporting System for WWF Pakistan, integrating data from over 5,000 factories to provide advanced analytics and visualization, empowering organizations to make data-driven decisions that drive sustainable practices.",
-  "Demonstrated expertise in full-stack development, AI/ML integration, and product management, leveraging cutting-edge technologies such as React, Node.js, MongoDB, and PostgreSQL to create transformative SaaS solutions."
-  ]
+    "company": "Fruit of Sustainability",
+    "position": "Lead Software Engineer",
+    "duration": "Since 2023",
+    "startDate": "2023-01-01",
+    "endDate": "Present",
+    "desc": [
+      "Spearheaded the development of Pakistan's first AI-enabled Grievance Management System, a groundbreaking SaaS platform that has been adopted by leading brands and factories, transforming the way employee complaints are managed and resolved.",
+      "Architected and delivered an innovative Environmental Sustainability Reporting System for WWF Pakistan, integrating data from over 5,000 factories to provide advanced analytics and visualization, empowering organizations to make data-driven decisions that drive sustainable practices.",
+      "Demonstrated expertise in full-stack development, AI/ML integration, and product management, leveraging cutting-edge technologies such as React, Node.js, MongoDB, and PostgreSQL to create transformative SaaS solutions."
+    ]
   },
   {
-  "company": "TTI Testing Labs",
-  "position": "Software Development Intern",
-  "duration": "June 2023 - August 2023",
-  "desc": [
-  "Developed a custom Automatic Report Generation software for TTI Testing Labs, revolutionizing their report creation process by automating the generation of personalized Word and PDF reports, streamlining operations and enhancing efficiency."
-  ]
+    "company": "TTI Testing Labs",
+    "position": "Software Development Intern",
+    "duration": "3 months",
+    "startDate": "2023-06-01",
+    "endDate": "2023-08-31",
+    "desc": [
+      "Developed a custom Automatic Report Generation software for TTI Testing Labs, revolutionizing their report creation process by automating the generation of personalized Word and PDF reports, streamlining operations and enhancing efficiency."
+    ]
   },
   {
     "company": "Upwork Freelancing",
     "position": "Freelance Software Developer",
-    "duration": "June 2022 - June 2023",
+    "duration": "12 months",
+    "startDate": "2022-06-01",
+    "endDate": "2023-06-30",
     "desc": [
-    "Created a pioneering Live Transcription and Translation software, empowering global teams to overcome language barriers and collaborate seamlessly during meetings and conversations through advanced speech recognition and language translation technologies.",
-    "Showcased versatility in problem-solving, with a strong focus on delivering custom software solutions that address unique client challenges and unlock new avenues for growth."
+      "Created a pioneering Live Transcription and Translation software, empowering global teams to overcome language barriers and collaborate seamlessly during meetings and conversations through advanced speech recognition and language translation technologies.",
+      "Showcased versatility in problem-solving, with a strong focus on delivering custom software solutions that address unique client challenges and unlock new avenues for growth."
     ]
-    }
-  ]
+  }
+]
+
   }
