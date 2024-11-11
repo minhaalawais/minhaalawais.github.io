@@ -10,7 +10,6 @@
   },
   "dependencies": {
     "@next/font": "13.1.6",
-    "@next/swc-win32-x64-msvc": "^15.0.3",
     "@sendgrid/mail": "^7.7.0",
     "@types/node": "18.13.0",
     "@types/react": "18.0.28",
