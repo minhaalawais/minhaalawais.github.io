@@ -10,8 +10,11 @@ const poppins = Poppins({
   weight: ['300', '400', '500', '600', '700', '800'],
   variable: '--font-poppins',
 });
+interface RootLayoutProps {
+  children: React.ReactNode;
+}
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: RootLayoutProps) {
   const [isMounted, setIsMounted] = useState(false);
 
   useEffect(() => {
