@@ -16,7 +16,7 @@
   ]
   },
   "about": {
-  "aboutImage": "https://i.ibb.co/Zg7YmFJ/Profile-picture-2-enhanced.png",
+  "aboutImage": "https://i.postimg.cc/RZCHbH1t/animegenius-d84defb0b67c210435a485514bce8c5c.png",
   "aboutImageCaption": "< Crafting Innovative AI-Powered Solutions />",
   "title": "Visionary AI-Enabled SaaS Architect",
   "about": "As an accomplished AI-enabled SaaS developer, I have a proven track record of designing and delivering transformative software solutions that empower businesses to overcome their most pressing challenges. With a deep understanding of the evolving technological landscape and a keen eye for user-centric design, I possess the expertise to translate complex business requirements into intuitive, scalable, and data-driven SaaS products. My passion lies in integrating cutting-edge AI and machine learning capabilities into software ecosystems, amplifying their impact and unlocking new dimensions of efficiency and insight for my clients. As a Lead Software Engineer, I have spearheaded the development of groundbreaking SaaS platforms, including Pakistan's first AI-enabled Grievance Management System and an innovative Environmental Sustainability Reporting System for WWF Pakistan. I am driven by a relentless pursuit of innovation and a commitment to creating software that not only solves problems but also inspires and empowers the organizations and individuals who use it.",
@@ -184,13 +184,47 @@
 ],
 "projects": [
   {
+    "name": "VFS Global Visa Appointment Booking Automation",
+    "techstack": "Python, Selenium, Web Scraping",
+    "category": "Automations",
+    "image": ["https://i.postimg.cc/tCZJMNw8/Screenshot-2024-11-15-003152-enhanced.png"],
+    "links": {
+    "code": "https://github.com/minhalawais/Visa-Appointment-Automation-VFS-GLOBAL-",
+    "video": "",
+    "visit": ""
+    },
+    "description": [
+    "Developed an automation tool to automatically book VFS Global visa appointment slots.",
+    "The tool monitors the VFS Global website and instantly secures an appointment whenever a slot becomes available.",
+    "Helped users bypass the lengthy wait times of 2-3 months for manual appointment booking.",
+    "Supported visa applications in the UK, Brazil, and Italy by automating the appointment process."
+    ]
+    },
+    {
+    "name": "Music Analytics Aggregator",
+    "techstack": "Python, Selenium, API Integration",
+    "category": "Automations",
+    "image": ["https://i.postimg.cc/Cxph6Tjf/Screenshot-2024-11-15-004350-enhanced.png"],
+    "links": {
+    "code": "https://github.com/minhalawais/multi-platform-song-analytics",
+    "video": "",
+    "visit": ""
+    },
+    "description": [
+    "Developed a custom tool to aggregate music analytics data from various platforms.",
+    "Automatically collected data from Apple Music, Spotify, Anghami, and YouTube.",
+    "Consolidated the data into a single CSV file, providing comprehensive insights on song performance.",
+    "Saved time and effort by automating the data collection process across multiple platforms."
+    ]
+    },
+  {
     "name": "Live Transcription and Translation Software",
     "techstack": "Python, Speech Recognition, Language Translation",
     "category": "Custom Software",
-    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "image": ["https://i.postimg.cc/13FL2899/pixelcut-export-11.png"],
     "links": {
-      "code": "",
-      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
+      "code": "https://github.com/minhalawais/Live-Transcription-Software",
+      "video": "",
       "visit": ""
     },
     "description": [
@@ -201,14 +235,17 @@
     ]
   },
   {
-    "name": "Dynamic Survey Module for Workforce Insights",
+    "name": "Pakistan's First Survey Module for Workforce Insights",
     "techstack": "React, Node.js, MongoDB, Sentiment Analysis",
     "category": "Mobile",
-    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "image": ["https://i.imghippo.com/files/VR4694GM.png",
+  "https://i.imghippo.com/files/Dogk2450mN.png",
+"https://i.imghippo.com/files/MVI4631Vw.png",
+"https://i.imghippo.com/files/keAj9826H.png"],
     "links": {
       "code": "",
-      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
-      "visit": ""
+      "video": "https://youtu.be/WzwbwsZZk98?si=uGSdiG5w1trBVYyL",
+      "visit": "https://www.fruitofsustainability.com"
     },
     "description": [
       "Created a dynamic survey module enabling organizations to customize surveys.",
@@ -218,13 +255,15 @@
     ]
   },
   {
-    "name": "Automated Report Generation Software",
+    "name": "Textile Testing Report Automation Tool",
     "techstack": "Python, Word/PDF Generation",
     "category": "Custom Software",
-    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "image": ["https://i.imghippo.com/files/HXB8894hs.png",
+  "https://i.imghippo.com/files/CLoQ3948Akg.png",
+"https://i.imghippo.com/files/NCd3511o.png"],
     "links": {
-      "code": "",
-      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
+      "code": "https://github.com/minhalawais/Textile-Testing-Report-Generator",
+      "video": "",
       "visit": ""
     },
     "description": [
@@ -238,11 +277,16 @@
     "name": "Fruit of Sustainability Mobile Application",
     "techstack": "React Native, Node.js, MongoDB",
     "category": "Mobile",
-    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "image": ["https://i.imghippo.com/files/ot5833Ido.png",
+"https://i.imghippo.com/files/UeHH8613aBs.png",
+"https://i.imghippo.com/files/iJwx5320wKs.png",
+"https://i.imghippo.com/files/gNDE7539ZM.png",
+"https://i.imghippo.com/files/pK1839DDw.png",
+"https://i.imghippo.com/files/nsIX1217dhE.png"],
     "links": {
       "code": "",
-      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
-      "visit": ""
+      "video": "https://youtu.be/WzwbwsZZk98?si=uGSdiG5w1trBVYyL",
+      "visit": "https://www.fruitofsustainability.com"
     },
     "description": [
       "Developed a mobile app for employees to file grievances and check case status.",
@@ -252,31 +296,38 @@
     ]
   },
   {
-    "name": "AI Enabled Grievance Management System",
+    "name": "Pakistan's First AI Enabled Worker Grevience Mechanism",
     "techstack": "React, Node.js, MongoDB, AI",
     "category": "SaaS Solutions",
-    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "image": ["https://i.imghippo.com/files/OpcF6298ZZ.png",
+    "https://i.imghippo.com/files/tFhi7143M.png",
+  "https://i.imghippo.com/files/ZJW4614ds.png"],
     "links": {
       "code": "",
-      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
-      "visit": ""
+      "video": "https://youtu.be/WzwbwsZZk98?si=uGSdiG5w1trBVYyL",
+      "visit": "https://www.fruitofsustainability.com"
     },
     "description": [
-      "Developed Pakistan's first AI-enabled Grievance Management System.",
+      "Developed Pakistan's first AI-enabled Grievance Management System for Fruit of Sustainability.",
       "Automated intake, investigation, and resolution processes with NLP and machine learning.",
       "Provided real-time analytics to support data-driven decision-making.",
       "Adopted by leading businesses, including Cheezious, Dawn, and Johny Jugnu."
     ]
   },
   {
-    "name": "Environmental Sustainability Reporting System",
+    "name": "WWF Environmental Sustainability Reporting System",
     "techstack": "React, Node.js, PostgreSQL, AI",
     "category": "SaaS Solutions",
-    "image": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "image": ["https://i.imghippo.com/files/igli5435XB.png",
+  "https://i.imghippo.com/files/aPpT6447zOk.png",
+"https://i.imghippo.com/files/qCXW5657osg.png",
+"https://i.imghippo.com/files/xpZ8570PP.png","https://i.imghippo.com/files/kOwD3402aRQ.png",
+"https://i.imghippo.com/files/CUtS4208MuI.png",
+"https://i.imghippo.com/files/qREu7739y.png"],
     "links": {
       "code": "",
-      "video": "https://www.youtube.com/watch?v=hq1l1mUXs6A",
-      "visit": ""
+      "video": "",
+      "visit": "https://www.ilessdb.org"
     },
     "description": [
       "Developed an Environmental Sustainability Reporting System for WWF Pakistan.",
@@ -307,9 +358,32 @@
       "Acquired knowledge in natural language processing, data analytics, and cloud computing, applying these to build industry-oriented solutions.",
       "Familiar with software development methodologies, with a primary focus on Agile practices for iterative and efficient project management."
     ]
-  }
+  }  
 ],
  "experiences": [
+  {
+    "company": "Upwork Freelancing",
+    "position": "Freelance Software Developer",
+    "duration": "12 months",
+    "startDate": "2022-06-01",
+    "endDate": "2023-06-30",
+    "desc": [
+      "Created a pioneering Live Transcription and Translation software, empowering global teams to overcome language barriers and collaborate seamlessly during meetings and conversations through advanced speech recognition and language translation technologies.",
+      "Showcased versatility in problem-solving, with a strong focus on delivering custom software solutions that address unique client challenges and unlock new avenues for growth."
+    ]
+  },
+  {
+    "company": "TTI Testing Labs",
+    "position": "Business Development Intern",
+    "duration": "3 months",
+    "startDate": "2023-06-01",
+    "endDate": "2023-08-31",
+    "desc": [
+        "Developed a custom Automatic Report Generation software for TTI Testing Labs, revolutionizing their report creation process by automating the generation of personalized Word and PDF reports, streamlining operations and enhancing efficiency",
+        "Gained expertise in operational excellence through analyzing and optimizing internal workflows, resulting in a 40% reduction in report generation time and improved customer satisfaction",
+        "Acquired deep understanding of quality management systems and their crucial role in maintaining consistent service delivery standards in a testing laboratory environment"
+    ]
+},
   {
     "company": "Fruit of Sustainability",
     "position": "Lead Software Engineer",
@@ -320,27 +394,6 @@
       "Spearheaded the development of Pakistan's first AI-enabled Grievance Management System, a groundbreaking SaaS platform that has been adopted by leading brands and factories, transforming the way employee complaints are managed and resolved.",
       "Architected and delivered an innovative Environmental Sustainability Reporting System for WWF Pakistan, integrating data from over 5,000 factories to provide advanced analytics and visualization, empowering organizations to make data-driven decisions that drive sustainable practices.",
       "Demonstrated expertise in full-stack development, AI/ML integration, and product management, leveraging cutting-edge technologies such as React, Node.js, MongoDB, and PostgreSQL to create transformative SaaS solutions."
-    ]
-  },
-  {
-    "company": "TTI Testing Labs",
-    "position": "Software Development Intern",
-    "duration": "3 months",
-    "startDate": "2023-06-01",
-    "endDate": "2023-08-31",
-    "desc": [
-      "Developed a custom Automatic Report Generation software for TTI Testing Labs, revolutionizing their report creation process by automating the generation of personalized Word and PDF reports, streamlining operations and enhancing efficiency."
-    ]
-  },
-  {
-    "company": "Upwork Freelancing",
-    "position": "Freelance Software Developer",
-    "duration": "12 months",
-    "startDate": "2022-06-01",
-    "endDate": "2023-06-30",
-    "desc": [
-      "Created a pioneering Live Transcription and Translation software, empowering global teams to overcome language barriers and collaborate seamlessly during meetings and conversations through advanced speech recognition and language translation technologies.",
-      "Showcased versatility in problem-solving, with a strong focus on delivering custom software solutions that address unique client challenges and unlock new avenues for growth."
     ]
   }
 ]

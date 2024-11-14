@@ -12,7 +12,7 @@ export default function Head() {
       <meta name="language" content="English" />
       <meta name="application-name" content="Minhal Awais - AI Developer" />
       <meta name="apple-mobile-web-app-title" content="Minhal Awais - AI Developer" />
-      <link rel="icon" href="https://i.ibb.co/Zg7YmFJ/Profile-picture-2-enhanced.png" />
+      <link rel="icon" href="https://i.postimg.cc/L4TfkDLS/Profile-picture-2-enhanced-modified.png" />
       <title>Minhal Awais - AI Developer</title>
     </>
   )
