@@ -54,7 +54,11 @@ const Contact = () => {
 
     return (
         <SectionWrapper id="contact" className="mb-16 mx-4 lg:mx-0">
-            <h2 className="text-center text-4xl">Contact Me</h2>
+            <h2 className="text-4xl font-bold text-center text-gray-800 dark:text-white mb-12">
+                <span className="bg-clip-text text-transparent bg-gradient-to-r from-violet-600 to-indigo-600">
+                Contact Me
+                </span>
+            </h2>
             <ToastContainer />
 
             <div className="w-full lg:w-5/6 2xl:w-3/4 mt-10 md:mt-16 mx-auto flex justify-between rounded-xl">

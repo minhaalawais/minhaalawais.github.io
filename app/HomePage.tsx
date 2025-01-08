@@ -10,6 +10,7 @@ import Contact from "@/components/Contact";
 import CallToAction from "@/components/CallToAction";
 import Header from "./Header";
 import Footer from "./Footer";
+import Blogs from "@/components/Blogs";
 
 interface Props {
     data: data,
@@ -26,9 +27,11 @@ const HomePage = ({ data }: Props) => {
             <Skills skillData={data.skills} />
             <Projects projectsData={data.projects} />
             <Experiences experienceData={data.experiences} educationData={data.educations} />
+            <Blogs blogsData={data.blogs} />
             <Contact />
         </>
     )
 }
 
 export default HomePage
+

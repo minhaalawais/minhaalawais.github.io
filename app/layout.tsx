@@ -26,7 +26,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
       <head />
       <body className={`${poppins.className} font-poppins bg-gray-100/50 dark:bg-grey-900 text-black dark:text-white overflow-x-hidden`}>
         {isMounted && (
-          <ThemeProvider attribute="class" defaultTheme="light" enableSystem={true} disableTransitionOnChange={true}>
+          <ThemeProvider attribute="aclass" defaultTheme="light" enableSystem={true} disableTransitionOnChange={true}>
             {children}
             <Analytics />
           </ThemeProvider>
