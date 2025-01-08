@@ -4,8 +4,8 @@ import { BiLinkExternal } from "react-icons/bi";
 import { BsCalendarDate } from "react-icons/bs";
 import { FaRegClock } from "react-icons/fa";
 import SectionWrapper from "./SectionWrapper";
-import BlogModal from "./BlogModal";
-import AllBlogsModal from "./AllBlogsModal";
+import BlogModal from './BlogModal';
+import AllBlogsModal from './allBlogsModal';
 
 interface Blog {
   id: number;
