@@ -1,17 +1,12 @@
 import React from 'react';
 import Image from 'next/image';
 import { IoMdClose } from 'react-icons/io';
+import { Blog } from "@/types/main";
 
 interface BlogModalProps {
   isOpen: boolean;
   onClose: () => void;
-  blog: {
-    title: string;
-    content: string;
-    imageUrl: string;
-    date: string;
-    readTime: string;
-  };
+  blog: Blog;
 }
 
 const BlogModal: React.FC<BlogModalProps> = ({ isOpen, onClose, blog }) => {
@@ -51,3 +46,4 @@ const BlogModal: React.FC<BlogModalProps> = ({ isOpen, onClose, blog }) => {
 };
 
 export default BlogModal;
+

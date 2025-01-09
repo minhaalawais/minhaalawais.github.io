@@ -6,35 +6,20 @@ import { FaRegClock } from "react-icons/fa";
 import SectionWrapper from "./SectionWrapper";
 import BlogModal from './BlogModal';
 import AllBlogsModal from './allBlogsModal';
-
-interface Blog {
-  id: number;
-  title: string;
-  description: string;
-  content: string;
-  imageUrl: string;
-  date: string;
-  readTime: string;
-  blogUrl: string;
-}
+import { Blog, blogs } from "@/types/main";
 
 interface BlogsProps {
-  blogsData?: {
-    title: string;
-    blogs: Blog[];
-  };
+  blogsData: blogs;
 }
 
-const Blogs = ({ blogsData }: BlogsProps) => {
+const Blogs: React.FC<BlogsProps> = ({ blogsData }) => {
   const [selectedBlog, setSelectedBlog] = useState<Blog | null>(null);
   const [isAllBlogsModalOpen, setIsAllBlogsModalOpen] = useState(false);
 
-  if (!blogsData) return null;
-  
   const { title, blogs } = blogsData;
 
   return (
-    <SectionWrapper id="blogs" className="min-h-screen  mx-16 mb-12">
+    <SectionWrapper id="blogs" className="min-h-screen mx-16 mb-12">
       <h2 className="text-4xl font-bold text-center text-gray-800 dark:text-white mb-12">
         <span className="bg-clip-text text-transparent bg-gradient-to-r from-violet-600 to-indigo-600">
           {title}
@@ -45,7 +30,7 @@ const Blogs = ({ blogsData }: BlogsProps) => {
         {blogs.slice(0, 3).map((blog) => (
           <article 
             key={blog.id} 
-            className="bg-white dark:bg-grey-800 rounded-xl overflow-hidden group hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 cursor-pointer"
+            className="bg-white dark:bg-gray-800 rounded-xl overflow-hidden group hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 cursor-pointer"
             onClick={() => setSelectedBlog(blog)}
           >
             <div className="relative h-56 w-full overflow-hidden">

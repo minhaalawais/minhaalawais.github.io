@@ -55,19 +55,22 @@ type social = {
     link: string
 }
 
-type blog = {
+type Blog = {
+    id: number,
     title: string,
     description: string,
+    content: string,
     imageUrl: string,
     date: string,
     readTime: string,
     blogUrl: string
-}
-
+  }
+  
 type blogs = {
-    title: string,
-    blogs: blog[]
+title: string,
+blogs: Blog[]
 }
+  
 
 type data = {
     main: main,
@@ -89,6 +92,6 @@ export type {
     experience, 
     education, 
     social,
-    blog,
+    Blog,
     blogs 
 };

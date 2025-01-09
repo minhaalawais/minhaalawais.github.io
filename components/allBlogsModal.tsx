@@ -5,17 +5,7 @@ import { BiLinkExternal } from "react-icons/bi";
 import { BsCalendarDate } from "react-icons/bs";
 import { FaRegClock } from "react-icons/fa";
 import BlogModal from './BlogModal';
-
-interface Blog {
-  id: number;
-  title: string;
-  description: string;
-  content: string;
-  imageUrl: string;
-  date: string;
-  readTime: string;
-  blogUrl: string;
-}
+import { Blog } from "@/types/main";
 
 interface AllBlogsModalProps {
   isOpen: boolean;
